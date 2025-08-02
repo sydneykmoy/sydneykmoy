@@ -1,6 +1,7 @@
 ## Hey I'm Sydney (like Sydney Australia)
 
-- 📫 How to reach me: ...
+📫 How to reach me
+Contact me at: mailto:sydneykmoy@gmail.com
 
 
 <!--
