@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey I'm Sydney (like Sydney Australia)
+
+- 📫 How to reach me: ...
+
 
 <!--
 **sydneykmoy/sydneykmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
