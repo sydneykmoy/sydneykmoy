@@ -1,7 +1,9 @@
 ## Hey I'm Sydney (like Sydney Australia)
 
-📫 How to reach me
-Contact me at: mailto:sydneykmoy@gmail.com
+📫 How to reach me  
+Find me on [LinkedIn](www.linkedin.com/in/sydneykmoy)!  
+Contact me at: sydneykmoy@gmail.com  
+
 
 
 <!--
