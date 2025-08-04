@@ -1,9 +1,15 @@
 ## Hey I'm Sydney (like Sydney Australia)
 
-📫 How to reach me  
-Find me on [LinkedIn](https://www.linkedin.com/in/sydneykmoy/)!  
-Contact me at: sydneykmoy@gmail.com  
+### 🥸 Who Am I?
+I'm a Computer Science student at Boston University with a strong interest in how businesses can leverage technology to streamline operations, drive efficiency, and create value through innovation.
 
+### 🌱 What I'm Up To
+I'm currently learning more about AI and ML through the Break Through Tech AI program and taking classes on web development.  
+
+### 🔭 Current Projects  
+- Developed a classification model to predict whether an adult earns more than or less than/equal to $50K using 1994 U.S. Census data, achieving 81% accuracy.  
+
+📫 Feel Free to Reach Out At: sydneykmoy@gmail.com
 
 
 <!--
